@@ -1,4 +1,4 @@
-package com.Bob_r.dto;
+package com.bob_r.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;

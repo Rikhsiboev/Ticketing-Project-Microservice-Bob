@@ -1,15 +1,15 @@
 package com.Bob_r.service.impl;
 
-import com.Bob_r.dto.ProjectDTO;
-import com.Bob_r.dto.TaskDTO;
-import com.Bob_r.entity.Project;
-import com.Bob_r.entity.Task;
-import com.Bob_r.entity.User;
-import com.Bob_r.enums.Status;
-import com.Bob_r.respository.TaskRepository;
 import com.Bob_r.service.TaskService;
 import com.Bob_r.service.UserClientService;
-import com.Bob_r.util.MapperUtil;
+import com.bob_r.dto.ProjectDTO;
+import com.bob_r.dto.TaskDTO;
+import com.bob_r.entity.Project;
+import com.bob_r.entity.Task;
+import com.bob_r.entity.User;
+import com.bob_r.enums.Status;
+import com.bob_r.respository.TaskRepository;
+import com.bob_r.util.MapperUtil;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;

@@ -3,7 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <groupId>com.Bob_r</groupId>
+        <groupId>com.bob_r</groupId>
         <artifactId>Ticketing-Project-Microservice-Bob</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
@@ -13,13 +13,12 @@
     <artifactId>user-service</artifactId>
 
 
+
     <dependencies>
-<!--        importing pom or jar form Dto class  we can use here
-            And we need 3 things group id artifactId and Version-->
+
         <dependency>
-            <groupId>com.Bob_r</groupId>
+            <groupId>com.bob_r</groupId>
             <artifactId>app-domain-model</artifactId>
-<!--            i am using version from main in one location-->
         </dependency>
 
 
@@ -98,6 +97,7 @@
 
 
     </dependencies>
+
 
     <build>
         <plugins>

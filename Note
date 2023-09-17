@@ -1,0 +1,11 @@
+1) discompose setup of our application
+        by pom file as Parent => 3 information
+          1 => groupId                 <groupId>com.bob_r</groupId>
+          2 => artifactId              <artifactId>app-domain-model</artifactId>
+          3 => version                 <version>0.0.1-SNAPSHOT</version>
+2) creating image run docker in terminal "mvc clean install" or use Maven comment
+3) creating our container to see our app working
+        "cd docker-compose"                     => direction of file
+        "docker compose -f services.yml up"     => run from terminal to create container
+4) Discovery service  => registration of services ot microservices adding Actuator dependency too
+    "http://localhost:8761/"

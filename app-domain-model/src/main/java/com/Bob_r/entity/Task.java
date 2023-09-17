@@ -1,6 +1,6 @@
-package com.Bob_r.entity;
+package com.bob_r.entity;
 
-import com.Bob_r.enums.Status;
+import com.bob_r.enums.Status;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

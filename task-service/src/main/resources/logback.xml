@@ -33,7 +33,7 @@
 
 
 <!--    log levels     trace>debug>info>warn>error    -->
-    <logger name="com.cydeo" level="info" additivity="false">
+    <logger name="com.bob_r" level="info" additivity="false">
         <appender-ref ref="FILE"/>
         <appender-ref ref="STDOUT"/>
     </logger>

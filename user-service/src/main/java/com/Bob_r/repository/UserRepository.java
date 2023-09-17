@@ -1,6 +1,6 @@
-package com.Bob_r.repository;
+package com.bob_r.repository;
 
-import com.Bob_r.entity.User;
+import com.bob_r.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

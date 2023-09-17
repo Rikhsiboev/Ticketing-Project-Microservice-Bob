@@ -1,7 +1,7 @@
 package com.Bob_r.service;
 
-import com.Bob_r.dto.RoleDTO;
-import com.Bob_r.exception.UserServiceException;
+import com.bob_r.dto.RoleDTO;
+import com.bob_r.exception.UserServiceException;
 
 import java.util.List;
 

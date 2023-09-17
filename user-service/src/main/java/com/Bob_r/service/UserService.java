@@ -1,8 +1,8 @@
 package com.Bob_r.service;
 
-import com.Bob_r.dto.UserDTO;
-import com.Bob_r.entity.User;
-import com.Bob_r.exception.UserServiceException;
+import com.bob_r.dto.UserDTO;
+import com.bob_r.entity.User;
+import com.bob_r.exception.UserServiceException;
 
 import java.nio.file.AccessDeniedException;
 import java.util.List;

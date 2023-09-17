@@ -1,4 +1,4 @@
-package Bob_r;
+package bob_r;
 
 
 import org.modelmapper.ModelMapper;

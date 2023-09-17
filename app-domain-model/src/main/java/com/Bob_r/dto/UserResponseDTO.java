@@ -1,4 +1,4 @@
-package com.Bob_r.dto;
+package com.bob_r.dto;
 
 import lombok.Data;
 

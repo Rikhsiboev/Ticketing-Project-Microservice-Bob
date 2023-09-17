@@ -1,16 +1,16 @@
-package com.Bob_r.service.impl;
+package com.bob_r.service.impl;
 
-import com.Bob_r.dto.ProjectDTO;
-import com.Bob_r.dto.UserDTO;
-import com.Bob_r.dto.UserResponseDTO;
-import com.Bob_r.entity.Project;
-import com.Bob_r.entity.User;
-import com.Bob_r.enums.Status;
-import com.Bob_r.exception.ProjectServiceException;
-import com.Bob_r.repository.ProjectRepository;
-import com.Bob_r.service.ProjectService;
 import com.Bob_r.service.UserClientService;
-import com.Bob_r.util.MapperUtil;
+import com.bob_r.dto.ProjectDTO;
+import com.bob_r.dto.UserDTO;
+import com.bob_r.dto.UserResponseDTO;
+import com.bob_r.entity.Project;
+import com.bob_r.entity.User;
+import com.bob_r.enums.Status;
+import com.bob_r.exception.ProjectServiceException;
+import com.bob_r.repository.ProjectRepository;
+import com.bob_r.service.ProjectService;
+import com.bob_r.util.MapperUtil;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

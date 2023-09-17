@@ -1,9 +1,9 @@
 package com.Bob_r.service;
 
-import com.Bob_r.dto.ProjectDTO;
-import com.Bob_r.dto.TaskDTO;
-import com.Bob_r.entity.User;
-import com.Bob_r.enums.Status;
+import com.bob_r.dto.ProjectDTO;
+import com.bob_r.dto.TaskDTO;
+import com.bob_r.entity.User;
+import com.bob_r.enums.Status;
 
 import java.util.List;
 

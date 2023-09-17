@@ -1,6 +1,6 @@
-package com.Bob_r.dto;
+package com.bob_r.dto;
 
-import com.Bob_r.enums.Gender;
+import com.bob_r.enums.Gender;
 import com.fasterxml.jackson.annotation.*;
 import lombok.*;
 

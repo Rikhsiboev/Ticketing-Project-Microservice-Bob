@@ -1,9 +1,9 @@
-package com.Bob_r.respository;
+package com.bob_r.respository;
 
-import com.Bob_r.entity.Project;
-import com.Bob_r.entity.Task;
-import com.Bob_r.entity.User;
-import com.Bob_r.enums.Status;
+import com.bob_r.entity.Project;
+import com.bob_r.entity.Task;
+import com.bob_r.entity.User;
+import com.bob_r.enums.Status;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

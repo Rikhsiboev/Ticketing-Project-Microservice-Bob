@@ -1,4 +1,4 @@
-package com.Bob_r.entity;
+package com.bob_r.entity;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Getter;

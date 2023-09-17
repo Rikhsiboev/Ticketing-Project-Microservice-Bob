@@ -1,9 +1,9 @@
-package com.Bob_r.controller;
+package com.bob_r.controller;
 
 
-import com.Bob_r.dto.UserDTO;
-import com.Bob_r.entity.ResponseWrapper;
-import com.Bob_r.exception.UserServiceException;
+import com.bob_r.dto.UserDTO;
+import com.bob_r.entity.ResponseWrapper;
+import com.bob_r.exception.UserServiceException;
 import com.Bob_r.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <parent>
-        <groupId>com.Bob_r</groupId>
+        <groupId>com.bob_r</groupId>
         <artifactId>Ticketing-Project-Microservice-Bob</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
@@ -14,11 +14,11 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.Bob_r</groupId>
+            <groupId>com.bob_r</groupId>
             <artifactId>app-domain-model</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.Bob_r</groupId>
+            <groupId>com.bob_r</groupId>
             <artifactId>app-client-management</artifactId>
         </dependency>
 

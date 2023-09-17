@@ -1,11 +1,11 @@
 package com.Bob_r.service.impl;
 
-import com.Bob_r.dto.RoleDTO;
-import com.Bob_r.entity.Role;
-import com.Bob_r.exception.UserServiceException;
-import com.Bob_r.repository.RoleRepository;
+import com.bob_r.dto.RoleDTO;
+import com.bob_r.entity.Role;
+import com.bob_r.exception.UserServiceException;
+import com.bob_r.repository.RoleRepository;
 import com.Bob_r.service.RoleService;
-import com.Bob_r.util.MapperUtil;
+import com.bob_r.util.MapperUtil;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

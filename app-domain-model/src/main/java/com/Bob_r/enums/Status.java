@@ -1,4 +1,4 @@
-package com.Bob_r.enums;
+package com.bob_r.enums;
 
 public enum Status {
 

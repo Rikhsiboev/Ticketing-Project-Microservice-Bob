@@ -1,6 +1,6 @@
-package com.Bob_r.entity;
+package com.bob_r.entity;
 
-import com.Bob_r.enums.Gender;
+import com.bob_r.enums.Gender;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;

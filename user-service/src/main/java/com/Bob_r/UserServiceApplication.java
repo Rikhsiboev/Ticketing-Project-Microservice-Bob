@@ -1,4 +1,4 @@
-package com.Bob_r;
+package com.bob_r;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;
