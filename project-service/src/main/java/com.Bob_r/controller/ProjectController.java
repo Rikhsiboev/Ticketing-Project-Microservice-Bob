@@ -1,4 +1,4 @@
-package Bob_r.controller;
+package com.Bob_r.controller;
 
 import com.Bob_r.dto.ProjectDTO;
 import com.Bob_r.entity.ResponseWrapper;
@@ -6,6 +6,7 @@ import com.Bob_r.exception.ProjectServiceException;
 import com.Bob_r.service.ProjectService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 

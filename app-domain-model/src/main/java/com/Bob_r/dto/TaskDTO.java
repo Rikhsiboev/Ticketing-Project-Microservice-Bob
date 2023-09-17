@@ -1,6 +1,6 @@
 package com.Bob_r.dto;
 
-import com.cydeo.enums.Status;
+import com.Bob_r.enums.Status;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

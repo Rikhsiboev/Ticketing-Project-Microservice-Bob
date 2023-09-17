@@ -1,4 +1,4 @@
-package Bob_r.repository;
+package com.Bob_r.repository;
 
 
 import com.Bob_r.entity.Project;

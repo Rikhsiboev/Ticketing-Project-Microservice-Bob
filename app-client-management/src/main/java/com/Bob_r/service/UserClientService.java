@@ -1,4 +1,4 @@
-package service;
+package com.Bob_r.service;
 
 import com.Bob_r.dto.UserResponseDTO;
 import org.springframework.cloud.openfeign.FeignClient;

@@ -1,4 +1,4 @@
-package Bob_r.service.impl;
+package com.Bob_r.service.impl;
 
 import com.Bob_r.dto.ProjectDTO;
 import com.Bob_r.dto.UserDTO;

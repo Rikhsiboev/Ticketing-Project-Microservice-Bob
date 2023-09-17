@@ -1,8 +1,8 @@
-package Bob_r.service;
+package com.Bob_r.service;
 
 import com.Bob_r.dto.ProjectDTO;
 import com.Bob_r.entity.User;
-import com.Bob_r.exception.ProjectServiceException;
+import com.Bob_r.exception.*;
 
 import java.util.List;
 

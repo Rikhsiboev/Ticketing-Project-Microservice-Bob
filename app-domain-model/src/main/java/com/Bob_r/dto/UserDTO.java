@@ -1,6 +1,6 @@
 package com.Bob_r.dto;
 
-import com.cydeo.enums.Gender;
+import com.Bob_r.enums.Gender;
 import com.fasterxml.jackson.annotation.*;
 import lombok.*;
 

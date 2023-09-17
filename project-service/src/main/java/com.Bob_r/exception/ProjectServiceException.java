@@ -1,4 +1,4 @@
-package Bob_r.exception;
+package com.Bob_r.exception;
 
 public class ProjectServiceException extends Exception {
 
