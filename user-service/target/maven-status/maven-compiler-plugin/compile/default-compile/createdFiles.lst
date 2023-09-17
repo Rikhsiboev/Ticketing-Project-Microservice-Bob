@@ -1,9 +1,0 @@
-com/Bob_r/service/impl/UserServiceImpl.class
-com/Bob_r/repository/RoleRepository.class
-com/Bob_r/UserServiceApplication.class
-com/Bob_r/service/RoleService.class
-com/Bob_r/controller/UserController.class
-com/Bob_r/service/impl/RoleServiceImpl.class
-com/Bob_r/repository/UserRepository.class
-com/Bob_r/service/UserService.class
-com/Bob_r/exception/UserServiceException.class

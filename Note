@@ -8,4 +8,9 @@
         "cd docker-compose"                     => direction of file
         "docker compose -f services.yml up"     => run from terminal to create container
 4) Discovery service  => registration of services ot microservices adding Actuator dependency too
-    "http://localhost:8761/"
+    spring-cloud-starter-netflix-eureka-server   => for create
+    spring-boot-starter-actuator                 => we need
+    "http://localhost:8761/"                     => spring Eureka
+    spring-cloud-starter-netflix-eureka-client   => for registration our services or microservices
+    spring-boot-starter-actuator                 =>we need for each
+    "http://localhost:9090/actuater/info"

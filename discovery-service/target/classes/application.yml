@@ -6,11 +6,11 @@ spring:
 
 
 server:
-  port: 8761
+  port: 8761   # no port
 
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://discovery-service:8761/eureka/
+      defaultZone: http://discovery-service:8761/eureka/   # http://localhost:8761/   end point
     register-with-eureka: false
     fetch-registry: false
