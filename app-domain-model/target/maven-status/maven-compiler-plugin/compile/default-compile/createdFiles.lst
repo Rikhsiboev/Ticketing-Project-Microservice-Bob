@@ -1,0 +1,16 @@
+com/bob_r/dto/RoleDTO.class
+com/bob_r/dto/UserDTO.class
+com/bob_r/dto/ProjectDTO.class
+com/bob_r/entity/Task.class
+com/bob_r/dto/ProjectDTO$ProjectDTOBuilder.class
+com/bob_r/dto/TaskDTO.class
+com/bob_r/util/MapperUtil.class
+com/bob_r/entity/Role.class
+com/bob_r/enums/Status.class
+com/bob_r/entity/ResponseWrapper.class
+com/bob_r/entity/BaseEntity.class
+com/bob_r/dto/UserResponseDTO.class
+com/bob_r/entity/Project.class
+com/bob_r/entity/User.class
+com/bob_r/enums/Gender.class
+com/bob_r/dto/UserDTO$UserDTOBuilder.class

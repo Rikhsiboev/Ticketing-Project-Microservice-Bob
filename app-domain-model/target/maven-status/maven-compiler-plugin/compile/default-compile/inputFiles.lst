@@ -1,0 +1,14 @@
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/dto/UserDTO.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/entity/User.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/entity/BaseEntity.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/entity/Task.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/enums/Gender.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/entity/Project.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/dto/UserResponseDTO.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/dto/ProjectDTO.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/dto/RoleDTO.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/dto/TaskDTO.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/entity/Role.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/entity/ResponseWrapper.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/util/MapperUtil.java
+/Users/rikhsiboevgmail.com/IdeaProjects/java-version-updates/Bob_R/Ticketing-Project-Microservice-Bob/app-domain-model/src/main/java/com/Bob_r/enums/Status.java
